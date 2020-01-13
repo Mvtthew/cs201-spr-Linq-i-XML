@@ -6,7 +6,7 @@
 
 Napisz program, **wykorzystując operatory LINQ**, pobierający ze standardowego wejścia bazę klientów wraz z przypisanymi im zamówieniami i wypisujący na standardowe wyjście listę wszystkich klientów, którzy złożyli przynajmniej jedno zamówienie w podanym roku.
 
-Baza klientów jest niepusta i zapisana w formacie XML (patrz przykład). Może się zdarzyć, że klienci nie maja żadnych zamówień.
+Baza klientów jest niepusta i zapisana w formacie XML (patrz przykład). Może się zdarzyć, że klienci nie mają żadnych zamówień.
 
 Standardowe wejście:
 
